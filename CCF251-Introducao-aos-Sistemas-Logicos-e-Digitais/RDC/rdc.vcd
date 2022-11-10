@@ -1,0 +1,133 @@
+$date
+	Tue Nov  6 17:28:25 2018
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module testbench $end
+$var wire 1 ! FF3 $end
+$var wire 1 " FF2 $end
+$var wire 1 # FF1 $end
+$var reg 1 $ Clk $end
+$var reg 1 % I0 $end
+$var reg 1 & I1 $end
+$var reg 1 ' I2 $end
+$var reg 1 ( Load $end
+$scope module instancial $end
+$var wire 1 $ Clk $end
+$var wire 1 % I0 $end
+$var wire 1 & I1 $end
+$var wire 1 ' I2 $end
+$var wire 1 ( Load $end
+$var reg 1 # FF1 $end
+$var reg 1 " FF2 $end
+$var reg 1 ! FF3 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x(
+x'
+x&
+x%
+0$
+x#
+x"
+x!
+$end
+#1
+1(
+1$
+#2
+1'
+0&
+0%
+0$
+#3
+1!
+0"
+0#
+1$
+#4
+0$
+#5
+1$
+#6
+0$
+#7
+1$
+#8
+0$
+#9
+1$
+#10
+0$
+#11
+1$
+#12
+0$
+0(
+#13
+1#
+0!
+1$
+#14
+0$
+#15
+0#
+1"
+1$
+#16
+0$
+#17
+0"
+1!
+1$
+#18
+0$
+#19
+1#
+0!
+1$
+#20
+0$
+#21
+0#
+1"
+1$
+#22
+0$
+#23
+0"
+1!
+1$
+#24
+0$
+#25
+1#
+0!
+1$
+#26
+0$
+#27
+0#
+1"
+1$
+#28
+0$
+#29
+0"
+1!
+1$
+#30
+0$
+#31
+1#
+0!
+1$
+#32
+0$

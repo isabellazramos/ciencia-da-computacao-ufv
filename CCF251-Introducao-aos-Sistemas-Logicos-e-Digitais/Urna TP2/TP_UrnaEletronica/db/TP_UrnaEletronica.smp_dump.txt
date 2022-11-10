@@ -1,0 +1,11 @@
+
+State Machine - |TP_UrnaEletronica|urnaeletronica:instancial|estado
+Name estado.0110 estado.0101 estado.0100 estado.0011 estado.0010 estado.0001 estado.0000 estado.1000 
+estado.0000 0 0 0 0 0 0 0 0 
+estado.0001 0 0 0 0 0 1 1 0 
+estado.0010 0 0 0 0 1 0 1 0 
+estado.0011 0 0 0 1 0 0 1 0 
+estado.0100 0 0 1 0 0 0 1 0 
+estado.0101 0 1 0 0 0 0 1 0 
+estado.0110 1 0 0 0 0 0 1 0 
+estado.1000 0 0 0 0 0 0 1 1 
