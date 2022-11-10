@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/isabella/Desktop/Fila-lista-encadeada/fila_encadeada.c
+fila_encadeada.h
+/home/isabella/Desktop/Fila-lista-encadeada/fila_encadeada.h
+
+/home/isabella/Desktop/Fila-lista-encadeada/fila_encadeada.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/isabella/Desktop/Fila-lista-encadeada/main.c
+fila_encadeada.h
+/home/isabella/Desktop/Fila-lista-encadeada/fila_encadeada.h
+

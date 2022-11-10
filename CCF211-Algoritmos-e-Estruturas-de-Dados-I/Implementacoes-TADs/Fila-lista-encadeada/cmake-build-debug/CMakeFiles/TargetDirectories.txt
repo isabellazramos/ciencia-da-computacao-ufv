@@ -1,0 +1,3 @@
+/home/isabella/Desktop/Fila-lista-encadeada/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/isabella/Desktop/Fila-lista-encadeada/cmake-build-debug/CMakeFiles/Fila-lista-encadeada.dir
+/home/isabella/Desktop/Fila-lista-encadeada/cmake-build-debug/CMakeFiles/edit_cache.dir

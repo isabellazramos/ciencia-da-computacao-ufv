@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Jogo.dir/main.c.o CMakeFiles/Jogo.dir/fila_encadeada.c.o  -o Jogo 

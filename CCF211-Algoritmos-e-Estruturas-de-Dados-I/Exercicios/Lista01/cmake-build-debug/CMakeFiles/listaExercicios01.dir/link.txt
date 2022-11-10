@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/listaExercicios01.dir/listaExercicios.c.o CMakeFiles/listaExercicios01.dir/exercicio05.c.o  -o listaExercicios01 

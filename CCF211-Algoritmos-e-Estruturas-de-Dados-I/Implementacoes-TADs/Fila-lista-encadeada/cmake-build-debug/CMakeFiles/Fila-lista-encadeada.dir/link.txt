@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Fila-lista-encadeada.dir/main.c.o CMakeFiles/Fila-lista-encadeada.dir/fila_encadeada.c.o  -o Fila-lista-encadeada 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ListaArranjo.dir/main.c.o CMakeFiles/ListaArranjo.dir/listaArranjo.c.o  -o ListaArranjo 

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/isabella/CLionProjects/TAD_Aeroporto/aeroporto.h
+stdio.h
+-
+string.h
+-
+passageiro.h
+/home/isabella/CLionProjects/TAD_Aeroporto/passageiro.h
+
+/home/isabella/CLionProjects/TAD_Aeroporto/main.c
+stdio_ext.h
+-
+stdio.h
+-
+aeroporto.h
+/home/isabella/CLionProjects/TAD_Aeroporto/aeroporto.h
+
+/home/isabella/CLionProjects/TAD_Aeroporto/passageiro.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

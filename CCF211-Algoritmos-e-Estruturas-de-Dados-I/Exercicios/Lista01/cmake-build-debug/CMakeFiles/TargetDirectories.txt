@@ -1,0 +1,3 @@
+/home/isabella/CLionProjects/listaExercicios01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/isabella/CLionProjects/listaExercicios01/cmake-build-debug/CMakeFiles/listaExercicios.h.dir
+/home/isabella/CLionProjects/listaExercicios01/cmake-build-debug/CMakeFiles/edit_cache.dir

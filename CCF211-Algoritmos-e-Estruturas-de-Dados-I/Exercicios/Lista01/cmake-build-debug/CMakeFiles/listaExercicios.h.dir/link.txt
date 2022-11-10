@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/listaExercicios.h.dir/listaExercicios.c.o CMakeFiles/listaExercicios.h.dir/exercicio09.c.o  -o listaExercicios.h 

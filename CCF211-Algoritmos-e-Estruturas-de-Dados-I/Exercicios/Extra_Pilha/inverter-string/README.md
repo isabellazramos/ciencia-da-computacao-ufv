@@ -1,0 +1,1 @@
+-  Utilize uma pilha para inverter uma string, ou seja, para escrever um texto em sentido inverso.

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/TAD_Aeroporto.dir/passageiro.c.o CMakeFiles/TAD_Aeroporto.dir/aeroporto.c.o CMakeFiles/TAD_Aeroporto.dir/main.c.o  -o TAD_Aeroporto 
